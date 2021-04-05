@@ -1,0 +1,15 @@
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\bin\Debug\Parroquia_San_Pascual_Bailon.exe.config
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\bin\Debug\Parroquia_San_Pascual_Bailon.exe
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\bin\Debug\Parroquia_San_Pascual_Bailon.pdb
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\bin\Debug\MaterialSkin.dll
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.csproj.ResolveComReference.cache
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.Form1.resources
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.PlaticasPrebautismales.resources
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.PrimeraComunion.resources
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.Properties.Resources.resources
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.csproj.GenerateResource.cache
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.csproj.CoreCompileInputs.cache
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.csproj.CopyComplete
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.exe
+C:\Users\lalo\source\repos\Parroquia_San_Pascual_Bailon\obj\Debug\Parroquia_San_Pascual_Bailon.pdb
